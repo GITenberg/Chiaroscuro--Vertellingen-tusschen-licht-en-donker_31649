@@ -1,0 +1,39 @@
+_repo: Chiaroscuro--Vertellingen-tusschen-licht-en-donker_31649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nievelt, Carel van
+    aliases:
+    - Van Nievelt, Carel
+    - Gabriel
+    - Gabriël
+    - Nievelt, C. van (Carel)
+    birthdate: 1843
+    deathdate: 1913
+    gutenberg_agent_id: '26662'
+    url: http://www.gutenberg.org/2009/agents/26662
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Carel_van_Nievelt
+    - http://en.wikipedia.org/wiki/Carel_van_Nievelt
+description: ''
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31649'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories, Dutch'
+- !lcsh 'Fiction'
+tableOfContents: De grauwe vrouw -- De paraplu van den kapelaan -- Jack Bobson's poolreis
+  -- De jonkvrouw van Hillegersberg -- Harmonia -- In den hobbelstoel -- Eene min
+  in den zonneschijn -- Eene min in den mist -- Mevrouw de douairière -- Alpengloeien
+  -- Don Juan del Mulino -- Chiaroscuro.
+title: 'Chiaroscuro: Vertellingen tusschen licht en donker'
+url: http://www.gutenberg.org/ebooks/31649
