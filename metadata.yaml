@@ -19,6 +19,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Carel_van_Nievelt
     - http://en.wikipedia.org/wiki/Carel_van_Nievelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31649#Chiaroscuro--Vertellingen-tusschen-licht-en-donker
 gutenberg_issued: '2010-03-15'
 gutenberg_type: Text
 identifiers:
